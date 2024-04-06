@@ -4,7 +4,7 @@
 •🌱 I’m currently learning - Full Stack <br>
 • 📫 How to reach me - alimausmani21@navgurukul.org <br>
 • 📄 Know about my experiences - [RESUME](https://drive.google.com/file/d/1Zao5xWzIAOTZpG6ez9TUU1iqNDKvbETU/view?usp=sharing)
-#<h2 align="center">Contact Me At :star:</h2>
+.<h2 align="center">Contact Me At :star:</h2>
 <p align="center">
    <a href="mailto:alimausmani21@navgurukul.org"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a /></a>&nbsp;&nbsp;&nbsp;&nbsp;
