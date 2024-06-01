@@ -3,7 +3,7 @@
 # 💫About Me 
 •🌱 I’m currently learning - Full Stack <br>
 • 📫 How to reach me - alimausmani21@navgurukul.org <br>
-• 📄 Know about my experiences - [RESUME](https://drive.google.com/file/d/1Zao5xWzIAOTZpG6ez9TUU1iqNDKvbETU/view?usp=sharing)
+• 📄 Know about my experiences - [RESUME](https://drive.google.com/file/d/14Q9OuPG1pKVasYsWCeMm0lMZEKih4peQ/view)
 
 <h2 align="center">Contact Me At :star:</h2>
 
